@@ -1,4 +1,4 @@
-# Fabis-links
+# Better Links
 Better Linktree Clone made with React
 
 Install Instructions:
